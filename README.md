@@ -1,31 +1,29 @@
 <div align="center">
-  <h1>Project Movies Data Base</h1>
+  <h1>Project CRUD</h1>
 </div>
 
-A repository to store **Project Movies Data Base** code.
+A repository to store **Project CRUD** code.
 
-Vercel Build : https://project-tmdb-amzplpxel-sauloassefalves.vercel.app
 
 # 🎮 Getting started
 
 <h3 style="font-size: 18px;">🧬 Clone this repository</h3>
 
 ```bash
-git clone https://github.com/SauloAssefAlves/ProjectMoviesDB.git
+git clone https://github.com/Ryansousa10/CRUD-Project.git
 ```
 
 <h3 style="font-size: 18px;">📂 Move yourself to the appropriate repository</h3>
 
 ```bash
-cd ProjectMoviesDB
+cd my-app
 ```
 
 <h3 style="font-size: 18px;">🎉 Install the package dependencies</h3>
 
 ```bash
-npm install
-# or
-yarn
+npm i --legacy-peer-deps
+
 ```
 
 # 🔥 Usage
